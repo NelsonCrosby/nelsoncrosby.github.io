@@ -1,0 +1,16 @@
+# Site settings
+title: ~nelsonc
+description: >
+  Writer of code and breaker of computers
+baseurl: ""
+url: "https://nelsoncrosby.github.io"
+
+permalink: /posts/:year/:month/:day/:title/
+
+fullname: Nelson Crosby
+email: nelsonc@sourcecomb.com
+twitter_username: nelson_xb
+github_username:  NelsonCrosby
+
+# Build settings
+markdown: kramdown
