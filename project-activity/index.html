@@ -1,1 +1,6 @@
 <script src="https://gist.github.com/NelsonCrosby/673085e48a86144afd5590313a18848c.js"></script>
+<script>
+  var title = document.createElement('title')
+  title.text = document.querySelector('article h1').textContent
+  document.querySelector('head').appendChild(title)
+</script>
